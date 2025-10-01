@@ -7,7 +7,7 @@ function App() {
       <div>
         <img src={viteLogo} className="logo" alt="Vite logo" />
       </div>
-      <h1>I'm Brueoat !!!</h1>
+      <h1>I'm Brueoat I'm 24 years old I'm from Korea</h1>
     </>
   )
 }
