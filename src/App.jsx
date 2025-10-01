@@ -1,4 +1,4 @@
-import viteLogo from '/200.webp'
+import viteLogo from '/300.webp'
 import './App.css'
 
 function App() {
